@@ -1,2 +1,2 @@
 # Data-Science-for-Everyone
-Notebooks for Data Analysis! Commit 1
+Notebooks for Data Analysis! Commit 2
